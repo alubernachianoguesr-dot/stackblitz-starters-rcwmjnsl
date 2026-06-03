@@ -71,10 +71,10 @@ section{
   justify-content: center;
 }
 section div{
-width: 30%;
-height: 350px;
+width: 300px;
+height: 170px;
 background-color: yellow;
-margin-left: 2px;
+margin: 5px;
 }
 #intro{
   background-image: url(https://static8.depositphotos.com/1000401/917/i/450/depositphotos_9170486-stock-photo-stars-in-outer-space.jpg);
@@ -82,17 +82,19 @@ margin-left: 2px;
   border-radius: 15px;
 }
 #eeuu{
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_the_United_States_%281912-1959%29.svg/3840px-Flag_of_the_United_States_%281912-1959%29.svg.png);
+  background-image: url(../img/banderaeeuu.png);
   background-size: cover;
+  background-repeat: no-repeat;
 }
 #mx{
-  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/006/601/767/small/mexico-flag-with-waving-effect-official-proportion-vector.jpg);
+  background-image: url(../img/banderamx.png);
   background-size: cover;
   background-position:center ;
 }
 #can{
-  background-image: url(https://us.123rf.com/450wm/jeksonjs/jeksonjs1412/jeksonjs141200072/34726195-canada-flag-on-a-triangle-background-design-vector-illustration.jpg);
+  background-image: url(../img/banderacan.svg);
   background-size: cover;
+  background-repeat: no-repeat;
   background-position: center;
 }
 /*fin main*/
