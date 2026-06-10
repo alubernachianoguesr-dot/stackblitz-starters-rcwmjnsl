@@ -162,3 +162,10 @@ h1 {
 #canada img{
   width: 200px;
 }
+#mexico, #mexico tr, #mexico td, #mexico th{
+  border: solid cornflowerblue 3px;
+  border-collapse: collapse;
+}
+#mexico img{
+  width: 200px;
+}
