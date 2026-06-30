@@ -170,7 +170,7 @@ h1 {
 }
 /* Las fotos se acomodan una al lado de la otra automáticamente (50% cada una)*/
 .foto{
-  min-height: 120px;/*Espacio para la imagen*/
+  min-height:120px; /*Espacio para la imagen*/
   padding: 35px 10px 10px 10px;
   font-size: 11px;
   border-bottom: 2px solid #000;
