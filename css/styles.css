@@ -186,13 +186,14 @@ h1 {
   min-height: 80px;
   font-size: 11px;
 }
-/* dato de campeones */
-.paises .foto img{
-  width: 100%;
-}
-.resenia p{
-  font-size: 16px;
-}
+  /*datos de campeones*/
+  .paises .foto img {
+    width: 350px;
+    }
+    .resenia p {
+    font-size: 16px;
+    }
+  
 .multimedia{
   width: 800px;
   background-color: blanchedalmond;
